@@ -1,0 +1,439 @@
+/* mediaquery---------------------------------------------- */
+
+@media(max-width:1271px) {
+
+    .flex-colum {
+        height: 719px;
+
+    }
+
+    #myVideo {
+        top: 0;
+    }
+}
+
+@media(max-width:1090px) {
+    .searchforresult {
+        padding: 8px 0px !important;
+      
+    }
+
+    #banner,
+    .new88 {
+        height: 400px;
+    }
+
+    .new99 {
+        padding-top: 56px;
+    }
+
+    .search {
+        width: 43% !important;
+        margin-top: 21px !important;
+        margin-left: 15px !important;
+    }
+
+    .search h1 {
+        font-size: 18px;
+
+    }
+
+    .search h2 {
+        font-size: 16px;
+        margin-bottom: 9px !important;
+
+    }
+
+    .search h3 {
+        font-size: 14px;
+        margin-bottom: 19px !important;
+    }
+
+    .searching input {
+        padding: 8px 0px !important;
+    }
+
+    .section2 {
+        height: 52vh !important;
+
+    }
+
+
+    @media (max-width:677px) and (min-width:560px) {
+        .section2 {
+            height: 54.2vh !important;
+
+        }
+    }
+
+    @media (max-width:560px) and (min-width:450px) {
+        .section2 {
+            height: 55.4vh !important;
+
+        }
+
+    }
+
+    .searching input {
+        border-radius: 20px !important;
+    }
+}
+
+@media(max-width:610px) {
+    .getcolumn {
+        width: 100% !important;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .sub1 {
+        width: 98px !important;
+    }
+
+    .sub1 img {
+        max-width: 83px !important;
+    }
+
+    .search {
+        width: 90% !important;
+    }
+
+    .img1 {
+        margin-top: 40px;
+    }
+
+    .img1 img {
+        width: 100% !important;
+    }
+
+    @media(max-width:582px) and (min-width:450px) {
+        .content {
+            padding: 0px 40px !important;
+        }
+
+
+        
+        .heading {
+            margin-left: 30px;
+        }
+        @media(max-width:535px) and (min-width:450px) {
+            .nav1{
+       
+                padding: 18px 30px !important;
+            }    
+        }
+    }
+}
+
+@media (max-width:450px) and (min-width:300px) {
+    .aboutwebuild{
+        width: 100% !important;
+    }
+    .nav1{
+       
+        padding: 18px 3px !important;
+    }
+    .fororderform {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+    .billing {
+        width: 400px !important;
+    }
+
+    .firstname input {
+        width: 181px !important;
+    }
+
+    .lastname input {
+        width: 181px !important;
+    }
+
+    .zipcode input {
+        width: 129px !important;
+    }
+
+    .city input {
+        width: 114px !important;
+    }
+    
+    
+   
+@media (max-width:407px) and (min-width:300px) {
+   .customername,.citydetails{
+    display: block !important;
+   }
+   .lastname,.state,.zipcode{
+    margin-left: 0px !important;
+
+   }
+   .billing input{
+    width: 250px !important;
+   }
+@media (max-width:365px) and (min-width:300px) {
+   .billing{
+    text-align: center;
+   }
+}
+}
+
+    td:nth-child(3) {
+        font-size: 11px;
+    }
+
+    .item_img {
+        width: 80px;
+    }
+
+    #sin {
+        display: block !important;
+    }
+
+    .content {
+        padding: 0px 20px !important;
+    }
+
+    .sec-img {
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #mainimg {
+        width: 366px !important;
+        margin-right: 0px !important;
+
+    }
+
+    .section-p2 {
+        padding: 32px 0px !important;
+    }
+
+    .ullu {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .newsletter {
+        flex-direction: column !important;
+    }
+
+    .newsletter .form {
+        width: 100% !important;
+    }
+
+    .footer {
+        flex-direction: column;
+    }
+
+}
+
+
+@media(max-width:810px) and (min-width:450px) {
+    /* ------------------------------cart------------------------ */
+
+    .fororderform {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    .billing {
+        width: auto !important;
+    }
+
+    .zipcode input {
+        width: 150px !important;
+    }
+
+    @media(max-width:577px) and (min-width:450px) {
+        .billing {
+            width: 480px !important;
+        }
+
+        .firstname input {
+            width: 181px !important;
+        }
+
+        .lastname input {
+            width: 181px !important;
+        }
+
+        .zipcode input {
+            width: 129px !important;
+        }
+
+        .city input {
+            width: 114px !important;
+        }
+        
+        
+        .billing {
+            width: 430px !important;
+        }
+        
+    }
+
+    /* single product------------------------------------ */
+    .sec-img {
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #sin {
+        display: block !important;
+    }
+
+    #mainimg {
+        width: 411px !important;
+    }
+
+    .getcolumn {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .getcolumn,
+    .subfirst {
+        width: 100% !important;
+    }
+
+    .sec3 {
+        width: 100% !important;
+        display: flex !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+    }
+
+
+
+
+
+    /* ------------------------------------- */
+    .searching {
+        padding-left: 10px;
+        right: 0px !important;
+    }
+
+
+
+    @media(max-width:710px) and (min-width:658px) {
+        .section3 {
+            padding: 30px 10px !important;
+        }
+    }
+
+    @media(max-width:658px) and (min-width:582px) {
+        .section3 {
+            padding: 30px 0px !important;
+        }
+
+        .content1 {
+            max-width: 291px;
+        }
+
+        .content1 img {
+            max-width: 291px !important;
+        }
+
+        .content1 video {
+            max-width: 291px !important;
+        }
+
+    }
+
+    @media(max-width:582px) and (min-width:450px) {
+        .content1 {
+            width: 400px !important;
+        }
+
+        .content1 img,
+        video {
+            max-width: 400px !important;
+        }
+
+
+
+    }
+}
+
+/* -------------------------------------- */
+@media(max-width:1172px) and (min-width:1030px) {
+    .section2 {
+        height: 51.9vh;
+    }
+}
+
+@media(max-width:1420px) and (min-width:811px) {
+    .section2 {
+        height: 50.8vh !important;
+
+    }
+
+    @media(max-width:1172px) and (min-width:1025px) {
+        .section2 {
+            height: 54.4vh !important;
+        }
+    }
+
+    @media(max-width:1030px) and (min-width:930px) {
+        .section2 {
+            height: 53.4vh !important;
+        }
+
+    }
+
+    @media(max-width:930px) and (min-width:811px) {
+        .fororderform {
+            flex-direction: column !important;
+            align-items: center !important;
+        }
+
+        .section2 {
+            height: 54.5vh !important;
+        }
+
+        #sin {
+            display: block !important;
+        }
+
+        .sec-img {
+            align-items: center;
+            flex-direction: column;
+        }
+
+        #mainimg {
+            width: auto !important;
+        }
+
+        .getcolumn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .getcolumn,
+        .subfirst {
+            width: 100% !important;
+        }
+
+        .sec3 {
+            width: 100% !important;
+            display: flex !important;
+            justify-content: space-between !important;
+            align-items: center !important;
+        }
+    }
+
+
+
+}
+
+@media(max-width:576px) {
+    .another {
+        width: auto !important;
+    }
+}
